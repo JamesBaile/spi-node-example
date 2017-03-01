@@ -1,0 +1,12 @@
+{
+  "name": "spi-node-example",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Node.js spi app to read energy consumption in docker",
+  "author": "james baile",
+  "dependencies": {
+    "spi": "0.2.0",
+    "sleep" : "5.1.0",
+    "node-stopwatch" : "0.0.1"
+  }
+}
